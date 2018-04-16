@@ -9,6 +9,20 @@
     width: 960px;    
     font-size: 18px;
 }
+
+h1 {
+    color: #777;
+    background: #ebebeb;
+    text-align: center;
+}
+
+
+p {
+    color: #777;
+    background: #ebebeb;
+}
+
+
 /*
 .text-Header, .text-Nav, .text-Section, .text-Aside, .text-Footer {
     background: #ebebeb;
