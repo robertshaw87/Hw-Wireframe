@@ -49,7 +49,7 @@ section {
     float: right;
     margin-left: 1%;
     width: 43%;
-    height: 325px;
+    height: 331px;
     padding: 20px;
 }
 
@@ -79,7 +79,7 @@ footer {
     margin-top: 20px;
     color: #777;
     background: #ebebeb;
-
+    padding: 25px;
 }
 
 
