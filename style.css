@@ -17,7 +17,6 @@
 }
 
 header {
-    color: #777;
     background: #ebebeb;
     text-align: center;
     width: 100%;
@@ -26,13 +25,13 @@ header {
 }
 
 section {
-    color: #777;
     background: #ebebeb;
     text-align: center;
 }
 
 .body-height {
-    height: 300px;
+    height: 350px;
+    width: 100%;
 }
 
 .main-text {
@@ -49,8 +48,8 @@ section {
     float: right;
     margin-left: 1%;
     width: 43%;
-    height: 331px;
     padding: 20px;
+    height: 331px;
 }
 
 .article-title {
@@ -61,6 +60,7 @@ section {
 }
 
 .article-text {
+    color: #777;
     padding: 1px;
     margin: 20px 0px 10px;
 }
@@ -81,19 +81,3 @@ footer {
     background: #ebebeb;
     padding: 25px;
 }
-
-
-/*
-.text-Header, .text-Nav, .text-Section, .text-Aside, .text-Footer {
-    background: #ebebeb;
-    }
-
-.text-Article {
-    color: ebebeb;
-    background: #777;
-}
-
-.h1, .p {
-    color: #777;
-    background: #ebebeb;
-}*/
