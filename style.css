@@ -12,8 +12,8 @@ body {
     width modified to account for padding*/
 header {
     background-color: #ebebeb;
-    width: 920px;
-    padding: 20px;
+    width: 880px;
+    padding: 40px;
     margin: 20px auto 20px auto;
 }
 
@@ -88,8 +88,8 @@ section {
 
 /* box formatting for footer */
 footer {
-    width: 920px;
+    width: 880px;
     margin: 40px auto 0 auto;
     background: #ebebeb;
-    padding: 20px;
+    padding: 40px;
 }
