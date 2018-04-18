@@ -23,17 +23,34 @@ header {
     margin: 20px 0px 20px 0px;
 }
 
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 {
+    font-size: 24px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+}
+
 /* section text formatting */
 section {
     background: #ebebeb;
     text-align: center;
 }
 
+h3 {
+    font-size:20px;
+    font-weight: 600;
+}
+
 /* box formatting for section box */
 .main-text {
     clear: both;
     width: 55%;
-    margin-right: 10px;
+    margin-right: 1%;
     margin-bottom: 20px;
     padding: 25px;
     float: left;
@@ -50,22 +67,21 @@ section {
 /* box formatting for body and sub header of article */
 .article-text {
     color: #777;
-    padding: 1px;
     margin: 20px 0px 10px;
+    padding: 20px;
 }
 
 /* additional sizing changes for body of article */
 #paragraph-body {
-    padding: 20px;
 }
 
 /* box formatting for aside, sits right of section box */
 .aside {
     float: right;
-    margin-left: 10px;
+    margin-left: 1%;
     width: 43%;
     padding: 20px;
-    height: 331px;
+    height: 312px;
 }
 
 /* box formatting for footer, clear used to reset float on above boxes */
